@@ -5,7 +5,7 @@ A Jupyter Notebook using Python 3 environment on visualizing selected data that 
 <br><i>Alternatively, you can view this notebook online by copying the URL/link to this notebook from this GitHub platform and paste it in this online viewer: https://nbviewer.jupyter.org/</i>
 
 ## Table of Contents
-1. Data Exteaction from DataHub.io
+1. Data Extraction from DataHub.io
 <br><i>Note: No data files required to be downloaded to run this notebook in your local machine since this notebook extract data directly using the DataHub.io URL/link</i>
 2. Showing missing values in the extracted data using `msno.matrix()`
 3. Overview of the data structure using Pandas `.head()`, `.tail()`, and `.info()`
