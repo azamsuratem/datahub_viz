@@ -2,7 +2,7 @@
 A Jupyter Notebook using Python 3 environment on visualizing selected data that are published in the open data repository DataHub.io
 
 <b>REMINDER:</b> If this notebook cannot be loaded via this GitHub platform, download it and view from your local machine via Anaconda's Jupyter Notebook or Jupyter Lab.
-<br><i>Alternatively, you can view this notebook online by copying the URL/link to this notebook from this GitHub platform and paste it in this online viewer: https://nbviewer.jupyter.org/</i>
+<br><i>Alternatively, you can view this notebook online by copying the below URL/link to this notebook and paste it in this [online viewer](https://nbviewer.jupyter.org/): https://github.com/azamsuratem/datahub_viz/blob/main/Visualizing%20Data%20from%20DataHub.io%20using%20Matplotlib%20and%20Seaborn.ipynb</i>
 
 ## Table of Contents
 1. Data Extraction from DataHub.io
